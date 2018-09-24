@@ -1,1 +1,1 @@
-# InventoryTask_SDSCodeChallenge
+# InventoryTask_CodeChallenge
